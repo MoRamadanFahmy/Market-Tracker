@@ -11,6 +11,6 @@ A Python script that fetches live gold, currency, and cryptocurrency prices, sav
 - Runs every 30 minutes automatically
 
 ## 🔗code
-- <a href="market_tracker.py">Code</a>
+- <a href="market tracker.py">Code</a>
 
 
